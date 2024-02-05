@@ -1,1 +1,5 @@
 nbformat>=4.2.0
+matplotlib>=3.4.3
+seaborn>=0.11.2
+pandas>=1.2.0
+plotly>=4.14.3
